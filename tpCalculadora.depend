@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1554499680 source:c:\programacion 1\tp_laboratorio_1\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesCalculadora.h"
+	"PedirNumero.h"
+
+1554432693 c:\programacion 1\tp_laboratorio_1\tpcalculadora\menu.h
+
+1554499524 source:c:\programacion 1\tp_laboratorio_1\tpcalculadora\funcionescalculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesCalculadora.h"
+	"PedirNumero.h"
+
+1554325565 source:c:\programacion 1\tp_laboratorio_1\tpcalculadora\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesCalculadora.h"
+	"Menu.h"
+	"PedirNumero.h"
+
+1554479160 source:c:\programacion 1\tp_laboratorio_1\tpcalculadora\pedirnumero.c
+	<stdio.h>
+	<stdlib.h>
+	"PedirNumero.h"
+
+1554497932 c:\programacion 1\tp_laboratorio_1\tpcalculadora\funcionescalculadora.h
+
+1554484407 c:\programacion 1\tp_laboratorio_1\tpcalculadora\pedirnumero.h
+
